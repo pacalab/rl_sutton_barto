@@ -1,0 +1,10 @@
+### Reinforcement Learning - An Introduction (by Sutton & Barto)
+
+This repo contains ideas, notes, plots and solved exercises from the **first edition** of the book. I will try to add the new chapters and exercises from the second edition, along with notes that compare the two editions where they differ significantly. Also keep en eye on the Errata on the book's page.
+
+Note: __Work in progress__
+
+First edition page: http://incompleteideas.net/book/first/the-book.html
+<br>
+Second edition page: http://incompleteideas.net/book/the-book.html
+
